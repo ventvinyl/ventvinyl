@@ -1,4 +1,4 @@
-나는 영양제다
+Σ
 
 [![profile](https://solvedac-cards-starcea.paring.moe/profile/youngyangze?size=200)](https://solved.ac/profile/youngyangze)
 
