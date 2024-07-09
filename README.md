@@ -1,6 +1,6 @@
 Σ
 
-[![profile](https://solvedac-cards-starcea.paring.moe/profile/youngyangze?size=200)](https://solved.ac/profile/youngyangze)
+[![me](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngyangze)](https://solved.ac/youngyangze)
 
 ![youngyangze](http://mazandi.herokuapp.com/api?handle=youngyangze&theme=dark)
 
