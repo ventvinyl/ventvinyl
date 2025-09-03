@@ -9,5 +9,3 @@
 
 ### Skills
 ![sk](https://skillicons.dev/icons?i=cpp,c,py,lua,rust,git,notion,latex&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventvinyl&show_icons=true&theme=dark)
