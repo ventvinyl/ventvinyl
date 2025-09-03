@@ -8,4 +8,4 @@
 ![asdf](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youngyangze)
 
 ### Skills
-![sk](https://skillicons.dev/icons?i=cpp,c,py,lua,rust,git,notion,latex&theme=dark)
+![sk](https://skillicons.dev/icons?i=cpp,c,py,lua,rust&theme=dark)
