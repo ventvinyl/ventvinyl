@@ -4,6 +4,8 @@
 
 우발적으로 생긴 개인 프로젝트를 주로 합니다.
 
+코딩 못합니다.
+
 ### Problem Solving
 ![asdf](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youngyangze)
 
